@@ -1,0 +1,12 @@
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\App.Common.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\App.Common.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\App.Entities.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\App.Entities.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\obj\Debug\App.Common.csprojResolveAssemblyReference.cache
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\obj\Debug\App.Common.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\obj\Debug\App.Common.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\App.Common.dll.config
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\EntityFramework.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\EntityFramework.xml
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.Common\bin\Debug\EntityFramework.SqlServer.xml

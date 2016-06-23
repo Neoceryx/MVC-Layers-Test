@@ -1,0 +1,16 @@
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.BLL.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.BLL.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.Common.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.DAl.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.Entities.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.Common.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.DAl.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.Entities.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\obj\Debug\App.BLL.csprojResolveAssemblyReference.cache
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\obj\Debug\App.BLL.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\obj\Debug\App.BLL.pdb
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\App.BLL.dll.config
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\EntityFramework.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\EntityFramework.xml
+c:\Users\Daniel\documents\visual studio 2013\Projects\App\App.BLL\bin\Debug\EntityFramework.SqlServer.xml
